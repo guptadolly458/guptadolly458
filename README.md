@@ -45,6 +45,68 @@ Hi, I'm **Dolly Gupta**. I'm a B.Tech student who enjoys solving programming pro
 
 ---
 
+
+## 🧩 LeetCode
+
+<p align="center">
+  <a href="https://leetcode.com/u/dollygupta123/">
+    <img src="https://leetcard.jacoblin.cool/dollygupta123?theme=dark&font=Baloo_2" alt="LeetCode Stats"/>
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=guptadolly458&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guptadolly458&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=guptadolly458&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/guptadolly458/guptadolly458/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/dolly-gupta-3687b8430/">
+<img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
+</a>
+
+<a href="https://github.com/guptadolly458">
+<img src="https://skillicons.dev/icons?i=github" width="45"/>
+</a>
+
+<a href="https://leetcode.com/u/dollygupta123/">
+<img src="https://cdn.simpleicons.org/leetcode/FFA116" width="45"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+</p>
+
 <div align="center">
 
 ## `~/` skill radar
@@ -143,10 +205,4 @@ Hi, I'm **Dolly Gupta**. I'm a B.Tech student who enjoys solving programming pro
 <div align="center">
 <sub>`01110100 01101000 01100001 01101110 01101011 01110011 00100000 01100110 01101111 01110010 00100000 01110011 01100011 01110010 01101111 01101100 01101100 01101001 01101110 01100111`</sub>
 </div>
-## 🧩 LeetCode
 
-<p align="center">
-  <a href="https://leetcode.com/u/dollygupta123/">
-    <img src="https://leetcard.jacoblin.cool/dollygupta123?theme=dark&font=Baloo_2" alt="LeetCode Stats"/>
-  </a>
-</p>
