@@ -143,3 +143,10 @@ Hi, I'm **Dolly Gupta**. I'm a B.Tech student who enjoys solving programming pro
 <div align="center">
 <sub>`01110100 01101000 01100001 01101110 01101011 01110011 00100000 01100110 01101111 01110010 00100000 01110011 01100011 01110010 01101111 01101100 01101100 01101001 01101110 01100111`</sub>
 </div>
+## 🧩 LeetCode
+
+<p align="center">
+  <a href="https://leetcode.com/u/dollygupta123/">
+    <img src="https://leetcard.jacoblin.cool/dollygupta123?theme=dark&font=Baloo_2" alt="LeetCode Stats"/>
+  </a>
+</p>
