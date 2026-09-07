@@ -54,14 +54,6 @@ Hi, I'm **Dolly Gupta**. I'm a B.Tech student who enjoys solving programming pro
   </a>
 </p>
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=guptadolly458&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guptadolly458&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-</p>
 
 ---
 
@@ -69,14 +61,6 @@ Hi, I'm **Dolly Gupta**. I'm a B.Tech student who enjoys solving programming pro
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=guptadolly458&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/guptadolly458/guptadolly458/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
 </p>
 
 ---
@@ -101,11 +85,7 @@ Hi, I'm **Dolly Gupta**. I'm a B.Tech student who enjoys solving programming pro
 
 ---
 
-<p align="center">
 
-### ⭐ Thanks for visiting my profile!
-
-</p>
 
 <div align="center">
 
@@ -158,19 +138,6 @@ Hi, I'm **Dolly Gupta**. I'm a B.Tech student who enjoys solving programming pro
 
 <div align="center">
 
-## `~/` the numbers
-
-<img src="https://github-readme-stats.vercel.app/api?username=guptadolly458&show_icons=true&hide_border=true&theme=transparent&title_color=39D353&icon_color=39D353&text_color=8b949e&rank_icon=github" width="480">
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guptadolly458&layout=compact&hide_border=true&theme=transparent&title_color=39D353&text_color=8b949e" height="165">
-
-<br><br>
-
-<img src="assets/metrics.achievements.svg" width="90%">
-
-</div>
 
 ---
 
@@ -205,4 +172,8 @@ Hi, I'm **Dolly Gupta**. I'm a B.Tech student who enjoys solving programming pro
 <div align="center">
 <sub>`01110100 01101000 01100001 01101110 01101011 01110011 00100000 01100110 01101111 01110010 00100000 01110011 01100011 01110010 01101111 01101100 01101100 01101001 01101110 01100111`</sub>
 </div>
+<p align="center">
 
+### ⭐ Thanks for visiting my profile!
+
+</p>
