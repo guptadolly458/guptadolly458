@@ -122,7 +122,7 @@ Hi, I'm **Dolly Gupta**. I'm a B.Tech student who enjoys solving programming pro
 <div align="center">
 
 <img
-  src="./assets/contribution-violinist.gif"
+  src="./assets/WhatsApp Video 2026-09-15 at 12.53.26 PM (1).mp4"
   width="900"
   alt="Animated violinist contribution calendar"
 />
