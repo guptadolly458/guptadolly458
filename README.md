@@ -90,16 +90,25 @@ Hi, I'm **Dolly Gupta**. I'm a B.Tech student who enjoys solving programming pro
 <div align="center">
 
 ## 🎼 `~/ skill radar`
+<table>
+<tr>
+<td width="50%" align="center">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="assets/radar-dark.svg">
+<source media="(prefers-color-scheme: light)" srcset="assets/radar-light.svg">
+<img src="assets/radar-dark.svg" width="400">
+</picture>
+</td>
+<td width="50%" align="center">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="assets/radar-langs-dark.svg">
+<source media="(prefers-color-scheme: light)" srcset="assets/radar-langs-light.svg">
+<img src="assets/radar-langs-dark.svg" width="400">
+</picture>
+</td>
+</tr>
+</table>
 
-<div align="center">
-
-<img
-  src="https://quickchart.io/chart?c={type:'radar',data:{labels:['Cloud','DevOps','UI/UX','Web Development','Java','Git/GitHub'],datasets:[{label:'Skills',data:[75,70,65,70,60,75]}]},options:{plugins:{legend:{display:false}},scale:{ticks:{beginAtZero:true,max:100}}}}"
-  width="650"
-  alt="Skill Radar"
-/>
-
-<br>
 
 <em>🌸 Learning, building, and improving — one skill at a time. 🎻</em>
 
