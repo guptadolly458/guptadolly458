@@ -118,16 +118,21 @@ Hi, I'm **Dolly Gupta**. I'm a B.Tech student who enjoys solving programming pro
 
 
 ## 🌸 `~/ contribution calendar`
-
-<div align="center">
-
-<img
-  src="https://raw.githubusercontent.com/guptadolly458/guptadolly458/main/assets/WhatsApp Video 2026-09-15 at 12.53.26 PM (1).mp4"
-  width="900"
-  alt="Animated violinist contribution calendar"
-/>
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="assets/metrics.isocalendar.svg">
+<source media="(prefers-color-scheme: light)" srcset="assets/metrics.isocalendar.svg">
+<img src="assets/metrics.isocalendar.svg" width="90%">
+</picture>
 
 <br><br>
+
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/guptadolly458/guptadolly458/output/snake-dark.svg">
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/guptadolly458/guptadolly458/output/snake.svg">
+<img src="https://raw.githubusercontent.com/guptadolly458/guptadolly458/output/snake.svg" width="100%">
+</picture>
+
+</div>
 
 <em>🎻 Moving forward, one contribution at a time. 🌸</em>
 
