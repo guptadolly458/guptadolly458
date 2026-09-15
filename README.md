@@ -116,23 +116,30 @@ Hi, I'm **Dolly Gupta**. I'm a B.Tech student who enjoys solving programming pro
 
 <div align="center">
 
-## `~/` contribution calendar
+## 🌸 `~/ contribution calendar`
 
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="assets/metrics.isocalendar.svg">
-<source media="(prefers-color-scheme: light)" srcset="assets/metrics.isocalendar.svg">
-<img src="assets/metrics.isocalendar.svg" width="90%">
-</picture>
+<div align="center">
+
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=guptadolly458&theme=radical"
+  width="900"
+  alt="Dolly's real GitHub contribution calendar"
+/>
 
 <br><br>
 
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/guptadolly458/guptadolly458/output/snake-dark.svg">
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/guptadolly458/guptadolly458/output/snake.svg">
-<img src="https://raw.githubusercontent.com/guptadolly458/guptadolly458/output/snake.svg" width="100%">
-</picture>
+<img
+  src="./assets/contribution-violinist.gif"
+  width="180"
+  alt="Anime violinist"
+/>
+
+<br>
+
+<em>🎻 Moving forward, one contribution at a time. 🌸</em>
 
 </div>
+
 
 ---
 
