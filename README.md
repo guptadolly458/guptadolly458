@@ -97,10 +97,25 @@ alt="View LeetCode Profile"
 
 ## 🔥 GitHub Streak
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=guptadolly458&theme=tokyonight&hide_border=true" />
-</p>
+<div align="center">
 
+## 🌸 `~/ github melody`
+
+<a href="https://github.com/guptadolly458">
+
+<img
+  src="https://streak-stats.demolab.com/?user=guptadolly458&background=fff7fa&border=ffb6c9&stroke=ffd6e5&ring=ff8fab&fire=ff6f9c&currStreakNum=182848&sideNums=304a73&currStreakLabel=5c6f91&sideLabels=5c6f91&dates=7a8ca5&hide_border=false&border_radius=18&timezone=Asia%2FKolkata"
+  width="700"
+  alt="Dolly Gupta GitHub Contribution Streak"
+/>
+
+</a>
+
+<br>
+
+<em>🎹 Keep coding • Keep learning • Keep moving forward 🌸</em>
+
+</div>
 ---
 
 ## 🌐 Connect With Me
