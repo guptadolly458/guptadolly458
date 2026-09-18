@@ -152,26 +152,94 @@ Hi, I'm **Dolly Gupta**. I'm a B.Tech student who enjoys solving programming pro
 <div align="center">
 
 ## `~/` selected work
+<div align="center">
+
+## 🌸 `~/ selected work`
 
 <table>
 <tr>
-<td width="50%"><a href="https://github.com/guptadolly458/ShinigamiCode"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-ShinigamiCode-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/card-ShinigamiCode-light.svg"><img src="assets/card-ShinigamiCode-dark.svg" width="420"></picture></a></td>
-<td width="50%"><a href="https://github.com/guptadolly458/assignment"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-assignment-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/card-assignment-light.svg"><img src="assets/card-assignment-dark.svg" width="420"></picture></a></td>
+
+<td width="50%" valign="top">
+
+### 💻 ShinigamiCode
+
+A coding space for my DSA practice, Java learning and development journey.
+
+<p>
+<img src="https://img.shields.io/badge/Java-ff8fab?style=flat-square&logo=openjdk&logoColor=white">
+<img src="https://img.shields.io/badge/Git-80bde3?style=flat-square&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-5c9edb?style=flat-square&logo=github&logoColor=white">
+</p>
+
+<a href="https://github.com/guptadolly458/ShinigamiCode">
+  <strong>Explore Repository →</strong>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 📚 assignment
+
+Assignments, practice programs and academic work.
+
+<p>
+<img src="https://img.shields.io/badge/C-80bde3?style=flat-square&logo=c&logoColor=white">
+<img src="https://img.shields.io/badge/Java-ff8fab?style=flat-square&logo=openjdk&logoColor=white">
+<img src="https://img.shields.io/badge/DSA-6fa8dc?style=flat-square">
+</p>
+
+<a href="https://github.com/guptadolly458/assignment">
+  <strong>Explore Repository →</strong>
+</a>
+
+</td>
+
 </tr>
+
 <tr>
-<td width="50%"><a href="https://github.com/guptadolly458/Bridgelabz-Demo"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-Bridgelabz-Demo-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/card-Bridgelabz-Demo-light.svg"><img src="assets/card-Bridgelabz-Demo-dark.svg" width="420"></picture></a></td>
-<td width="50%"><a href="https://github.com/guptadolly458/Bridgelabz-Training-1Y"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-Bridgelabz-Training-1Y-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/card-Bridgelabz-Training-1Y-light.svg"><img src="assets/card-Bridgelabz-Training-1Y-dark.svg" width="420"></picture></a></td>
+
+<td width="50%" valign="top">
+
+### ☕ Bridgelabz-Demo
+
+Java practice, demos and programming exercises.
+
+<p>
+<img src="https://img.shields.io/badge/Java-ff8fab?style=flat-square&logo=openjdk&logoColor=white">
+<img src="https://img.shields.io/badge/OOP-80bde3?style=flat-square">
+</p>
+
+<a href="https://github.com/guptadolly458/Bridgelabz-Demo">
+  <strong>Explore Repository →</strong>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🎓 Bridgelabz-Training-1Y
+
+Training exercises, Java practice and learning progress.
+
+<p>
+<img src="https://img.shields.io/badge/Java-ff8fab?style=flat-square&logo=openjdk&logoColor=white">
+<img src="https://img.shields.io/badge/OOP-80bde3?style=flat-square">
+<img src="https://img.shields.io/badge/Git-6fa8dc?style=flat-square&logo=git&logoColor=white">
+</p>
+
+<a href="https://github.com/guptadolly458/Bridgelabz-Training-1Y">
+  <strong>Explore Repository →</strong>
+</a>
+
+</td>
+
 </tr>
 </table>
 
-<sub>
-| project | live | stack |
-|---|---|---|
-| **[ShinigamiCode](https://github.com/guptadolly458/ShinigamiCode)** | [GitHub](https://github.com/guptadolly458/ShinigamiCode) | `Java` `Git` `GitHub` |
-| **[assignment](https://github.com/guptadolly458/assignment)** | [GitHub](https://github.com/guptadolly458/assignment) | `C` |
-| **[Bridgelabz-Demo](https://github.com/guptadolly458/Bridgelabz-Demo)** | [GitHub](https://github.com/guptadolly458/Bridgelabz-Demo) | `Java` |
-| **[Bridgelabz-Training-1Y](https://github.com/guptadolly458/Bridgelabz-Training-1Y)** | [GitHub](https://github.com/guptadolly458/Bridgelabz-Training-1Y) | `Java` `OOP` |
-</sub>
+<br>
+
+<em>🌸 Learning • Building • Practicing • Growing 🌸</em>
 
 </div>
 
