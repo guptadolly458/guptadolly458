@@ -128,25 +128,6 @@ alt="View LeetCode Profile"
 <div align="center">
 
 ## 🎼 `~/ skill radar`
-<table>
-<tr>
-<td width="50%" align="center">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="assets/radar-dark.svg">
-<source media="(prefers-color-scheme: light)" srcset="assets/radar-light.svg">
-<img src="assets/radar-dark.svg" width="400">
-</picture>
-</td>
-<td width="50%" align="center">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="assets/radar-langs-dark.svg">
-<source media="(prefers-color-scheme: light)" srcset="assets/radar-langs-light.svg">
-<img src="assets/radar-langs-dark.svg" width="400">
-</picture>
-</td>
-</tr>
-</table>
-
 
 <em>🌸 Learning, building, and improving — one skill at a time. 🎻</em>
 
@@ -155,6 +136,46 @@ alt="View LeetCode Profile"
 ---
 
 <div align="center">
+<div align="center">
+
+## 🌸 `~/ skill radar`
+
+<table>
+
+<tr>
+
+<td width="50%" align="center">
+
+<img
+src="assets/april-radar.svg"
+width="400"
+alt="Animated skill radar"
+/>
+
+</td>
+
+<td width="50%" align="center">
+
+<img
+src="assets/april-languages.svg"
+width="400"
+alt="Animated programming language radar"
+/>
+
+</td>
+
+</tr>
+
+</table>
+
+<br>
+
+<em>
+🎻 Every skill grows with practice.<br>
+🎹 Every problem teaches a new note.
+</em>
+
+</div>
 
 
 ## 🌸 `~/ contribution calendar`
