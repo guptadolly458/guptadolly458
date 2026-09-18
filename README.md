@@ -48,16 +48,71 @@ Hi, I'm **Dolly Gupta**. I'm a B.Tech student who enjoys solving programming pro
 
 ## 🧩 LeetCode
 
-<p align="center">
-    <a href="https://leetcode.com/u/dollygupta123/">
+
+<div align="center">
+
+## 🎹 `~/ april.leetcode` 🌸
+
+<table
+  width="100%"
+  background="assets/leetcode-bg.svg"
+  cellpadding="25"
+  cellspacing="0"
+  style="border-radius:25px;"
+>
+<tr>
+<td align="center">
+
+<br>
+
+<h3>🌸 Keep Solving • Keep Growing 🎼</h3>
+
+<a href="https://leetcode.com/u/dollygupta123/">
   <img
-    src="https://leetcard.jacoblin.cool/dollygupta123?theme=light&font=Dancing_Script&colors=fff7fa,ffe3ed,3d405b,4a4e69,ff8fab,80bde3,6fa8dc,ffb6c1&animation=true"
-    width="500"
+    src="https://leetcard.jacoblin.cool/dollygupta123?theme=light&font=Dancing_Script&colors=fff7fa,ffe3ed,182848,304a73,ff8fab,80bde3,6fa8dc,ffc2d1&animation=true"
+    width="520"
     alt="Dolly Gupta LeetCode Statistics"
   />
 </a>
-    <div align="center">
 
+<br><br>
+
+<h3>🌸 LeetCode Activity</h3>
+
+<a href="https://leetcode.com/u/dollygupta123/">
+  <img
+    src="https://leetcard.jacoblin.cool/dollygupta123?theme=light&font=Dancing_Script&colors=fff7fa,ffe3ed,182848,304a73,ff8fab,80bde3,6fa8dc,ffc2d1&animation=true&ext=activity"
+    width="520"
+    alt="Dolly Gupta LeetCode Activity"
+  />
+</a>
+
+<br><br>
+
+🌸 ───────────────────────────── 🌸
+
+<br>
+
+<em>
+🎼 One problem at a time • One note at a time • One step closer
+</em>
+
+<br><br>
+
+<a href="https://leetcode.com/u/dollygupta123/">
+  <img
+    src="https://img.shields.io/badge/VIEW_MY_LEETCODE-182848?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=ff8fab"
+    alt="View LeetCode Profile"
+  />
+</a>
+
+<br><br>
+
+</td>
+</tr>
+</table>
+
+</div>
 
 
 <em>🌸 One problem, one note, one day at a time. 🎹</em>
