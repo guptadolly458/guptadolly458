@@ -136,19 +136,25 @@ alt="View LeetCode Profile"
 
 ## 🌸 `~/ skill radar`
 
-<img
-  src="./assets/april-radar.png"
-  width="900"
-  alt="Dolly Gupta Skill Radar"
-/>
+<table>
+<tr>
+<td width="50%" align="center">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="assets/radar-dark.svg">
+<source media="(prefers-color-scheme: light)" srcset="assets/radar-light.svg">
+<img src="assets/radar-dark.svg" width="400">
+</picture>
+</td>
+<td width="50%" align="center">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="assets/radar-langs-dark.svg">
+<source media="(prefers-color-scheme: light)" srcset="assets/radar-langs-light.svg">
+<img src="assets/radar-langs-dark.svg" width="400">
+</picture>
+</td>
+</tr>
+</table>
 
-<br><br>
-
-<em>🎹 Every problem teaches a new note. 🌸</em>
-
-</div>
-
-</div>
 
 
 ## 🌸 `~/ contribution calendar`
