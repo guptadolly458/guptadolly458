@@ -148,10 +148,6 @@ Hi, I'm **Dolly Gupta**. I'm a B.Tech student who enjoys solving programming pro
 
 
 ---
-
-<div align="center">
-
-## `~/` selected work
 <div align="center">
 
 ## 🌸 `~/ selected work`
