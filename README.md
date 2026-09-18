@@ -58,17 +58,7 @@ Hi, I'm **Dolly Gupta**. I'm a B.Tech student who enjoys solving programming pro
 </a>
     <div align="center">
 
-## 🎹 `~/ april.leetcode.streak`
 
-<a href="https://leetcode.com/u/dollygupta123/">
-  <img
-    src="https://leetcard.jacoblin.cool/dollygupta123?theme=light&font=Dancing_Script&colors=fff7fa,ffe3ed,3d405b,4a4e69,ff8fab,80bde3,6fa8dc,ffb6c1&animation=true&ext=activity"
-    width="500"
-    alt="Dolly Gupta LeetCode Activity"
-  />
-</a>
-
-<br>
 
 <em>🌸 One problem, one note, one day at a time. 🎹</em>
   </a>
