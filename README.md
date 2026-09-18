@@ -127,8 +127,6 @@ alt="View LeetCode Profile"
 
 <div align="center">
 
-## 🎼 `~/ skill radar`
-
 <em>🌸 Learning, building, and improving — one skill at a time. 🎻</em>
 
 </div>
@@ -140,8 +138,6 @@ alt="View LeetCode Profile"
 
 ## 🌸 `~/ skill radar`
 <div align="center">
-
-## 🎼 `~/ skill radar` 🌸
 
 <p>
   <img
