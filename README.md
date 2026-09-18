@@ -139,23 +139,19 @@ alt="View LeetCode Profile"
 ## 🌸 `~/ skill radar`
 <div align="center">
 
-<p>
-  <img
-    src="assets/april-radar.svg"
-    width="820"
-    alt="Dolly Gupta Current Learning Focus Skill Radar"
-  />
-</p>
+## 🌸 `~/ skill radar`
 
-<em>
-🌸 Current learning focus — not a measure of professional proficiency.
-</em>
+<img
+  src="./assets/april-radar.svg"
+  width="900"
+  alt="Dolly Gupta Skill Radar"
+/>
+
+<br>
+
+<em>🎹 Every problem teaches a new note.</em>
 
 </div>
-
-
-🎹 Every problem teaches a new note.
-</em>
 
 </div>
 
