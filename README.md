@@ -139,39 +139,25 @@ alt="View LeetCode Profile"
 <div align="center">
 
 ## 🌸 `~/ skill radar`
+<div align="center">
 
-<table>
+## 🎼 `~/ skill radar` 🌸
 
-<tr>
-
-<td width="50%" align="center">
-
-<img
-src="assets/april-radar.svg"
-width="400"
-alt="Animated skill radar"
-/>
-
-</td>
-
-<td width="50%" align="center">
-
-<img
-src="assets/april-languages.svg"
-width="400"
-alt="Animated programming language radar"
-/>
-
-</td>
-
-</tr>
-
-</table>
-
-<br>
+<p>
+  <img
+    src="assets/april-radar.svg"
+    width="820"
+    alt="Dolly Gupta Current Learning Focus Skill Radar"
+  />
+</p>
 
 <em>
-🎻 Every skill grows with practice.<br>
+🌸 Current learning focus — not a measure of professional proficiency.
+</em>
+
+</div>
+
+
 🎹 Every problem teaches a new note.
 </em>
 
