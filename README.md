@@ -54,20 +54,6 @@ Hi, I'm **Dolly Gupta**. I'm a B.Tech student who enjoys solving programming pro
 
 ## 🎹 leetcode` 🌸
 
-<!-- REAL LEETCODE STATS -->
-
-<a href="https://leetcode.com/u/dollygupta123/">
-
-<img
-src="https://leetcard.jacoblin.cool/dollygupta123?theme=light&font=Dancing_Script&colors=fff7fa,ffe3ed,182848,304a73,ff8fab,80bde3,6fa8dc,ffc2d1&animation=true"
-width="600"
-alt="Dolly Gupta LeetCode Statistics"
-/>
-
-</a>
-
-<br><br>
-
 <!-- REAL LEETCODE SUBMISSION HEATMAP -->
 
 <a href="https://leetcode.com/u/dollygupta123/">
