@@ -88,11 +88,7 @@ alt="View LeetCode Profile"
 </a>
 
 </div>
-
-
-
-
-<em>🌸 One problem, one note, one day at a time. 🎹</em>
+</em>
   </a>
 </p>
 
