@@ -99,8 +99,6 @@ alt="View LeetCode Profile"
 
 <div align="center">
 
-## 🌸 `~/ github melody`
-
 <a href="https://github.com/guptadolly458">
 
 <img
