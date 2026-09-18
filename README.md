@@ -132,24 +132,19 @@ alt="View LeetCode Profile"
 </div>
 
 ---
-
-<div align="center">
-<div align="center">
-
-## 🌸 `~/ skill radar`
 <div align="center">
 
 ## 🌸 `~/ skill radar`
 
 <img
-  src="./assets/april-radar.svg"
+  src="./assets/april-radar.png"
   width="900"
   alt="Dolly Gupta Skill Radar"
 />
 
-<br>
+<br><br>
 
-<em>🎹 Every problem teaches a new note.</em>
+<em>🎹 Every problem teaches a new note. 🌸</em>
 
 </div>
 
