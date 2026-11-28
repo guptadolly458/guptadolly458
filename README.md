@@ -1,6 +1,8 @@
 <div align="center">
 
+
 <img src="assets/portrait.svg" width="300" alt="Dolly Gupta, rendered as a dot matrix">
+<img src="C:/Users/gupta/Downloads/Professional.png" width="300" alt="Dolly Gupta - Professional Profile Photo">
 
 <br>
 
